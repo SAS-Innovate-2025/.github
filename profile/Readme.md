@@ -43,17 +43,11 @@
 
 - 10:45 - 11:30 [Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
 - 11:30 - 12:15 [Getting Started with SAS® Visual Analytics](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Viya)
-- 2:00 - 2:45 
-- 3:00 - 3:45 
-- 4:00 - 4:45 
 
 ### Eola Conference Room
 
 - 10:45 - 11:30 [Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
 - 11:30 - 12:15 [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
-- 2:00 - 2:45 
-- 3:00 - 3:45 
-- 4:00 - 4:45 
 
 
 <br>
