@@ -15,10 +15,10 @@
 ### Eola Conference Room
 
 - 10:45 - 11:30 &nbsp;[How Do I Modify SAS® 9 Programs to Run in SAS® Viya?](https://github.com/SAS-Innovate-2025/How-Do-I-Modify-SAS-9-Programs-to-Run-in-SAS-Viya)
-- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;[SAS® Viya Workbench + VS Code: A Dynamic Duo for Data Science](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-and-VS-Code)
-- 2:00 - 2:45 &nbsp;&nbsp;&nbsp;[Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
-- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;[Large-Scale Time Series Forecasting in Model Studio](https://github.com/SAS-Innovate-2025/Large-Scale-Time-Series-Forecasting-in-Model-Studio)
-- 4:00 - 4:45 &nbsp;&nbsp;&nbsp;[Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
+- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SAS® Viya Workbench + VS Code: A Dynamic Duo for Data Science](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-and-VS-Code)
+- 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
+- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Large-Scale Time Series Forecasting in Model Studio](https://github.com/SAS-Innovate-2025/Large-Scale-Time-Series-Forecasting-in-Model-Studio)
+- 4:00 - 4:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
 
 ### Lake Louise Conference Room
 
