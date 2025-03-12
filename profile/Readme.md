@@ -10,7 +10,7 @@
 - 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Build SAS® Studio Flows](https://github.com/SAS-Innovate-2025/Build-SAS-Studio-Flows)
 - 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Model Interpretability in SAS®](https://github.com/SAS-Innovate-2025/Model-Interpretability-in-SAS)
 - 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Analyzing Database Tables in SAS® Viya® Using SQL and FedSQL](https://github.com/SAS-Innovate-2025/Analyzing-Database-Tables-in-SAS-Viya-Using-SQL-and-FedSQL)
-- 4:00 - 4:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Getting Started with SAS® Visual Analytics](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Viya)
+- 4:00 - 4:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Getting Started with SAS® Visual Analytics](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Viya)
 
 ### Eola Conference Room
 
