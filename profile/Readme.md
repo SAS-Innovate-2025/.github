@@ -19,6 +19,12 @@
 - 3:00 - 3:45 [Large-Scale Time Series Forecasting in Model Studio](https://github.com/SAS-Innovate-2025/Large-Scale-Time-Series-Forecasting-in-Model-Studio)
 - 4:00 - 4:45 [Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
 
+### Lake Louise Conference Room
+
+- 10:45 - 11:30 [Experience a Live Web Classroom Event!](https://github.com/SAS-Innovate-2025/Experience-a-Live-Web-Classroom-Event)
+- 2:00 - 2:45 [Getting Started with SAS Intelligent Decisioning](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Intelligent-Decisioning)
+- 4:00 - 4:45 [SAS® Macro 1 Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-Macro-1-Case-Study-Preview)
+
 ## Thursday 5/8/2025
 
 ### Mizell Conference Room
@@ -47,6 +53,12 @@
 
 - 10:45 - 11:30 [Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
 - 11:30 - 12:15 [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
+
+### Lake Louise Conference Room
+
+- 10:45 - 11:30 [SAS Viya Workbench for Learners -- Faculty and Students](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-for-Learners--Faculty-and-Students)
+- 1:00 - 1:45 [SAS® SQL Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-SQL-Case-Study-Preview)
+- 3:00 - 3:45 [Power Washing Your Data: Using SAS Data Quality Steps in SAS Studio Flows](https://github.com/SAS-Innovate-2025/Power-Washing-Your-Data-Using-SAS-Data-Quality-Steps-in-SAS-Studio-Flows)
 
 
 <br>
