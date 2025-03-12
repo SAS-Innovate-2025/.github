@@ -22,9 +22,9 @@
 
 ### Lake Louise Conference Room
 
-- 10:45 - 11:30 [Experience a Live Web Classroom Event!](https://github.com/SAS-Innovate-2025/Experience-a-Live-Web-Classroom-Event)
-- 2:00 - 2:45 [Getting Started with SAS Intelligent Decisioning](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Intelligent-Decisioning)
-- 4:00 - 4:45 [SAS® Macro 1 Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-Macro-1-Case-Study-Preview)
+- 10:45 - 11:30 &nbsp;[Experience a Live Web Classroom Event!](https://github.com/SAS-Innovate-2025/Experience-a-Live-Web-Classroom-Event)
+- 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Getting Started with SAS Intelligent Decisioning](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Intelligent-Decisioning)
+- 4:00 - 4:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SAS® Macro 1 Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-Macro-1-Case-Study-Preview)
 
 <br>
 
@@ -32,36 +32,36 @@
 
 ### Mizell Conference Room
 
-- 10:45 - 11:30 [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
-- 1:00 - 1:45 [I Spy with My Little Eye: Open-Source Code in my SAS® Model Studio Project!](https://github.com/SAS-Innovate-2025/I-Spy-with-My-Little-Eye-Open-Source-Code-in-my-SAS-Model-Studio-Project)
-- 2:00 - 2:45 [Dashboarding:  Where Data becomes Information](https://github.com/SAS-Innovate-2025/Dashboarding-Where-Data-Becomes-Information)
-- 3:00 - 3:45 [Better (Prompt) Engineering: Leveraging ChatGPT to get started with SAS® coding](https://github.com/SAS-Innovate-2025/Better-Prompt-Engineering-Leveraging-ChatGPT-to-get-started-with-SAS-coding)
+- 10:45 - 11:30 &nbsp;[Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
+- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[I Spy with My Little Eye: Open-Source Code in my SAS® Model Studio Project!](https://github.com/SAS-Innovate-2025/I-Spy-with-My-Little-Eye-Open-Source-Code-in-my-SAS-Model-Studio-Project)
+- 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dashboarding:  Where Data becomes Information](https://github.com/SAS-Innovate-2025/Dashboarding-Where-Data-Becomes-Information)
+- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Better (Prompt) Engineering: Leveraging ChatGPT to get started with SAS® coding](https://github.com/SAS-Innovate-2025/Better-Prompt-Engineering-Leveraging-ChatGPT-to-get-started-with-SAS-coding)
 
 ### Eola Conference Room
 
-- 10:45 - 11:30 [Text Analytics with SAS® Model Studio](https://github.com/SAS-Innovate-2025/Text-Analytics-with-SAS-Model-Studio)
-- 1:00 - 1:45 [Interactive Modeling with SAS® Visual Statistics](https://github.com/SAS-Innovate-2025/Interactive-Modeling-with-SAS-Visual-Statistics)
-- 2:00 - 2:45 [Assessing Model Bias and Model Health in SAS® Viya](https://github.com/SAS-Innovate-2025/Assessing-Model-Bias-and-Model-Health-in-SAS-Viya)
-- 3:00 - 3:45 [Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SAS-Innovate-2025/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model)
+- 10:45 - 11:30 &nbsp;[Text Analytics with SAS® Model Studio](https://github.com/SAS-Innovate-2025/Text-Analytics-with-SAS-Model-Studio)
+- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interactive Modeling with SAS® Visual Statistics](https://github.com/SAS-Innovate-2025/Interactive-Modeling-with-SAS-Visual-Statistics)
+- 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assessing Model Bias and Model Health in SAS® Viya](https://github.com/SAS-Innovate-2025/Assessing-Model-Bias-and-Model-Health-in-SAS-Viya)
+- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SAS-Innovate-2025/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model)
  
 
 ## Friday 5/9/2025
 
 ### Mizell Conference Room
 
-- 10:45 - 11:30 [Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
-- 11:30 - 12:15 [Getting Started with SAS® Visual Analytics](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Viya)
+- 10:45 - 11:30 &nbsp;[Friends with Benefits: SAS® , SQL, R, and Python in SAS® Viya Workbench](https://github.com/SAS-Innovate-2025/Friends-with-Benefits-SAS-SQL-R-and-Python-in-SAS-Viya-Workbench)
+- 11:30 - 12:15 &nbsp;[Getting Started with SAS® Visual Analytics](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Viya)
 
 ### Eola Conference Room
 
-- 10:45 - 11:30 [Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
-- 11:30 - 12:15 [Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
+- 10:45 - 11:30 &nbsp;[Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
+- 11:30 - 12:15 &nbsp;[Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
 
 ### Lake Louise Conference Room
 
-- 10:45 - 11:30 [SAS Viya Workbench for Learners -- Faculty and Students](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-for-Learners--Faculty-and-Students)
-- 1:00 - 1:45 [SAS® SQL Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-SQL-Case-Study-Preview)
-- 3:00 - 3:45 [Power Washing Your Data: Using SAS Data Quality Steps in SAS Studio Flows](https://github.com/SAS-Innovate-2025/Power-Washing-Your-Data-Using-SAS-Data-Quality-Steps-in-SAS-Studio-Flows)
+- 10:45 - 11:30 &nbsp;[SAS Viya Workbench for Learners -- Faculty and Students](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-for-Learners--Faculty-and-Students)
+- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SAS® SQL Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-SQL-Case-Study-Preview)
+- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Power Washing Your Data: Using SAS Data Quality Steps in SAS Studio Flows](https://github.com/SAS-Innovate-2025/Power-Washing-Your-Data-Using-SAS-Data-Quality-Steps-in-SAS-Studio-Flows)
 
 
 <br>
