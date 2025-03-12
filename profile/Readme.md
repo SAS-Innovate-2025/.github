@@ -1,5 +1,6 @@
 ## Welcome to SAS Innovate 2025 Hands-On Session Repository! Here you will find hands-on instructions and other collateral related to the many hands-on sessions available at the conference.
 
+<br>
 
 ## Wednesday 5/7/2025
 
@@ -24,6 +25,8 @@
 - 10:45 - 11:30 [Experience a Live Web Classroom Event!](https://github.com/SAS-Innovate-2025/Experience-a-Live-Web-Classroom-Event)
 - 2:00 - 2:45 [Getting Started with SAS Intelligent Decisioning](https://github.com/SAS-Innovate-2025/Getting-Started-with-SAS-Intelligent-Decisioning)
 - 4:00 - 4:45 [SAS® Macro 1 Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-Macro-1-Case-Study-Preview)
+
+<br>
 
 ## Thursday 5/8/2025
 
