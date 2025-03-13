@@ -44,6 +44,13 @@
 - 2:00 - 2:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assessing Model Bias and Model Health in SAS® Viya](https://github.com/SAS-Innovate-2025/Assessing-Model-Bias-and-Model-Health-in-SAS-Viya)
 - 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Easily Turn Your Automated Explanation into a Predictive Model](https://github.com/SAS-Innovate-2025/Easily-Turn-Your-Automated-Explanation-into-a-Predictive-Model)
  
+### Lake Louise Conference Room
+
+- 10:45 - 11:30 &nbsp;[SAS Viya Workbench for Learners -- Faculty and Students](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-for-Learners--Faculty-and-Students)
+- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SAS® SQL Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-SQL-Case-Study-Preview)
+- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Power Washing Your Data: Using SAS Data Quality Steps in SAS Studio Flows](https://github.com/SAS-Innovate-2025/Power-Washing-Your-Data-Using-SAS-Data-Quality-Steps-in-SAS-Studio-Flows)
+
+<br>
 
 ## Friday 5/9/2025
 
@@ -56,12 +63,6 @@
 
 - 10:45 - 11:30 &nbsp;[Using SAS® Enterprise Guide in SAS® Viya](https://github.com/SAS-Innovate-2025/Using-SAS-Enterprise-Guide-in-SAS-Viya)
 - 11:30 - 12:15 &nbsp;[Microsoft Excel Proficiency with SAS® : Unlocking Data Insights and Dynamic Reporting](https://github.com/SAS-Innovate-2025/Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting)
-
-### Lake Louise Conference Room
-
-- 10:45 - 11:30 &nbsp;[SAS Viya Workbench for Learners -- Faculty and Students](https://github.com/SAS-Innovate-2025/SAS-Viya-Workbench-for-Learners--Faculty-and-Students)
-- 1:00 - 1:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SAS® SQL Case Study Preview](https://github.com/SAS-Innovate-2025/SAS-SQL-Case-Study-Preview)
-- 3:00 - 3:45 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Power Washing Your Data: Using SAS Data Quality Steps in SAS Studio Flows](https://github.com/SAS-Innovate-2025/Power-Washing-Your-Data-Using-SAS-Data-Quality-Steps-in-SAS-Studio-Flows)
 
 
 <br>
